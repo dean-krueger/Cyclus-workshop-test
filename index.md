@@ -10,3 +10,5 @@ This live workshop activity is based in GitHub Codespaces. These pages give the
 simple startup information that you might need while you engage in the 
 workshop. Please select your workshop below. 
 
+## Upcoming Workshops
+- [August 16, 2026 at Global 2026]({% post_url 2026-08-16-global %})
