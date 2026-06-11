@@ -13,8 +13,3 @@ workshop. Please select your workshop below.
 
 ### Workshops hosted
 - [2026.08.16 Global 2026](./2026.08.16)
-
-- Global 2026 Conference Workshop
-- Sunday 1-5pm
-- Workshop website: [https://www.ans.org/meetings/global2026/calendar/event-2156/](https://www.ans.org/meetings/global2026/calendar/event-2156/)
-
