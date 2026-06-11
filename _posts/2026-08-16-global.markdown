@@ -32,7 +32,7 @@ Once you have a GitHub account, and are signed in on [GitHub](https://github.com
 
 and then press "Create fork" 
 
-![Craete Fork](../img/Create-Fork.png)
+![Create Fork](../img/Create-Fork.png)
 
 2. Check that you are now on the GitHub page of your fork (the URL should have changed from https://github.com/cyclus/Workshop-Codespace to something like https://github.com/your-username/Workshop-Codespace). Once you are, press the green "Code" button:
 
@@ -44,7 +44,7 @@ which should bring up a menu that looks like this:
 
 Note that you may need to click the "Codespace" button in the menu that appears to see the above.
 
-3. Click the green "Create Codespace" button within the menu shown above to create a GitHub Codespace. This will place you in a VS Code development environent inside your browser with Cyclus pre-installed and configured. While it is loading, do not hit any buttons. It will take 2-3 minutes to fully initialize. During this initialization, it will look like this:
+3. Click the green "Create Codespace" button within the menu shown above to create a GitHub Codespace. This will place you in a VS Code development environment inside your browser with Cyclus pre-installed and configured. While it is loading, do not hit any buttons. It will take 2-3 minutes to fully initialize. During this initialization, it will look like this:
 
 ![Inside the Codespace](../img/Codespace-Launched.png)
 
