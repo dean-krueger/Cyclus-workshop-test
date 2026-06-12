@@ -4,13 +4,14 @@
   social: 
     - url: ## replace with your github!
       name: GitHub Page
+
 - name: Paul Wilson
   pic: /img/empty_image.png ##get temporary placeholder image
   description: Professor at University of Wisconsin-Madison
   social: 
     - url: https://github.com/gonuke
       name: GitHub Page
-      
+
 - name: Katy Huff
   pic: /img/katyhuff.png ##get temporary placeholder image
   description: Professor at the University of Wisconsin - Madison
@@ -23,6 +24,7 @@
   social: 
     - url: https://github.com/dean-krueger
       name: GitHub Page
+
 - name: Amanda M. Bachmann
   pic: /img/empty_image.png 
   description: Nuclear Engineer at Argonne National Laboratory 
@@ -30,7 +32,7 @@
     - url: https://github.com/abachma2
       name: GitHub Page
       
-      - name: Connor Welch
+- name: Connor Welch
   pic: /img/empty_image.png ##get temporary placeholder image
   description: Graduate Student at Oregon State University 
   social: 
