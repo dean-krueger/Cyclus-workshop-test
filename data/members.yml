@@ -16,4 +16,9 @@
   social: 
     - url: https://github.com/dean-krueger
       name: GitHub Page
-## please copy paste this block and fill in with your info
+- name: Amanda M. Bachmann
+  pic: /img/empty_image.png 
+  description: Nuclear Engineer at Argonne National Laboratory 
+  social: 
+    - url: https://github.com/abachma2
+      name: GitHub Page
