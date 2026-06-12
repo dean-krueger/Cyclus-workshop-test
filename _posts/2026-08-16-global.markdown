@@ -98,6 +98,9 @@ the purpose of this tutorial, we recommend you close this pane.
 
 ![Copilot]({{ site.baseurl }}/img/VS-Code-Copilot.png)
 
+If you would like to see some tips and tricks for working in the VS Code 
+Codespace, we prepared [some notes.](./vscode_tips_tricks.markdown)
+
 ## [Step 4] Verify Cyclus Configuration
 Finally, verify that Cyclus is installed and that your environment is 
 configured correctly by running the following commands.
